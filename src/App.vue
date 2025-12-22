@@ -1,12 +1,11 @@
 <script setup>
-import Navbar from './component/navbar.vue';
-
+import Hero from './component/hero.vue'
+import Navbar from './component/navbar.vue'
 </script>
 
 <template>
-  <header>
-    <Navbar />
-  </header>
+  <Navbar />
+  <Hero />
 </template>
 
 <style scoped></style>
