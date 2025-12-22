@@ -1,6 +1,5 @@
-# ./
-
-This template should help get you started developing with Vue 3 in Vite.
+# Null-Max
+A dark theme landing page with bento layouts for a premium headphone brand, built to showcase product features, color variants, and technical specs with clarity and speed.
 
 ## Recommended IDE Setup
 
