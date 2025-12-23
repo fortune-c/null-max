@@ -21,7 +21,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
 
 <template>
   <nav
-    class="sticky top-0 z-50 flex items-center justify-between p-4 text-white mx-10 bg-black/80 backdrop-blur transition-all duration-300"
+    class="sticky top-0 z-50 flex items-center justify-between p-4 text-white bg-black/80 backdrop-blur transition-all duration-300"
     :class="{
       'border-b border-white/30': scrolled,
     }"
@@ -34,7 +34,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
       <li><a href="#contact" class="hover:text-gray-700">Contact</a></li>
     </ul>
     <a
-      href="#"
+      href="#preorder"
       class="rounded-md bg-gray-600 px-2 text-xs w-20 h-6 text-center flex items-center justify-center hover:text-gray-400"
       >Preorder</a
     >
