@@ -21,7 +21,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="mx-10 flex flex-col items-center space-y-2 my-20" id="preorder">
+  <div class="mx-10 flex flex-col items-center space-y-2 my-40" id="preorder">
     <!-- Title -->
     <Transition name="slide-left">
       <div v-if="showComponent" class="pt-10 text-center">

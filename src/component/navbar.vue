@@ -30,7 +30,7 @@ onUnmounted(() => window.removeEventListener('scroll', onScroll))
     <ul class="flex flex-row space-x-4 max-sm:hidden">
       <li><a href="#features" class="hover:text-gray-700">Features</a></li>
       <li><a href="#color" class="hover:text-gray-700">Color</a></li>
-      <li><a href="#pricing" class="hover:text-gray-700">Pricing</a></li>
+      <li><a href="#preorder" class="hover:text-gray-700">Pricing</a></li>
       <li><a href="#contact" class="hover:text-gray-700">Contact</a></li>
     </ul>
     <a
