@@ -21,7 +21,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-12 text-sm text-gray-400">
         <!-- Brand -->
         <div>
-          <h3 class="text-white font-semibold mb-2">AuraMax</h3>
+          <h3 class="text-white font-semibold mb-2">NullMax</h3>
           <p class="text-gray-500">
             Designed to Move You
           </p>
